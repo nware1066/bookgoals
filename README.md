@@ -60,5 +60,5 @@ Leta Keane and Khalid Williams - The developers would like to thank the Turing M
 
 Our Turing Mentors - Including Turing students Jake West, Ben McClung, Nick Hart and alumni Veronica Andrade for their support during this project.
 
-testing changes for new repo
+This Application has been deployed to heroku
 <!--  -->
