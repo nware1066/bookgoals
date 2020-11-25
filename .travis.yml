@@ -6,7 +6,7 @@ notifications:
 deploy:
   provider: heroku
   api_key:
-    secure: 83972c8d-11aa-470f-abd4-f24ac556b017
+    secure: fcgZJc9Aorn8/D81wc/HprFw8SvFlMQmIQrIptpvZ3wcI0avcs7EaWmb32vz0AgsC0iu8TKXGiq1d2dhU1jLFNXUi6wu4z5hejXrBUV57nG+j2EnquHHXpoBHV817aJeVhmE5uUcSWrmZMWrOkFwqvSpQ7z3dVtLUe4WcD9p+MHX7mLNoQiQrWkO+8PCXmEs123R6m8SrK3rBB0oNkNlW4WkxUw17vMIH6CxnuFSlYLji0q8c3cXlMxbzD+35Gi4wTeudLiIp5gnB7+pBO8BE8Xihnen/rm/2IvV2ueFvqWH+rsYO3f/vNASY7GVs7qY3vqum7DmzldKji1dE6T3EIA0w5HgnjUH/Uw23cXxoNGtuZnsj3klxiXkx9JIygG4tEJ/C9TYdOPbFZLCMP3ToSFwu1cUcjTPGL/0wsyqmXV9Q4MB42a/B4t1ueYOz1ySsbTXQ/2YMq4Xt4HsBD3T3hGBSBT+aMGePsQJLTzDmrk6VKXGGVexEgriDdMgBd1r66Q/FLq8fGNYefEXJxea4zrZiA2SSxMBGe4kd26cxU8UlP2qEmX1MZ5yQCzNe7x5cEXrvD9rfqFZK5oFxJgK2s/yHTpgG3FVWGglKWhhWEG5o/HvZ5XejHpYOTQ8MbXPLvOWl8+5nsQ3TnXqs/pJ0riIruWX3mobQ3MbfSb4tME=
   on: main
   app: bibliogoal
   skip_cleanup: true
