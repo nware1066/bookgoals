@@ -14,9 +14,11 @@
 </p>
 
 ## About The Project
+This project has been modified so that I could use it to learn how to incorporate continuous integration using Travis ci
+
 BiblioGoal is an application that allows a user to set and track progress toward their reading goal. A user can set their reading goal, create a list of books they wish to read and track a list of books that they have read while viewing progress made toward their goal.
 
-This was a group project assigned during the third module of the Front-End Program at the Turing School of Software and Design. We were tasked to create an application that utilized a technology that was unfamiliar to us. Our group chose to implement Redux for state management as our new technology to learn and explore.
+This was originally a group project assigned during the third module of the Front-End Program at the Turing School of Software and Design. We were tasked to create an application that utilized a technology that was unfamiliar to us. Our group chose to implement Redux for state management as our new technology to learn and explore.
 
 The learning goals of this project included cementing fundamental concepts of React including architecting a React application from scratch, utilizing Redux for global state management, implementing class and functional components and utilizing React Router for path transitions and displays. Robust unit and integration testing was also implemented for each component utilizing the Jest testing suite.
 
